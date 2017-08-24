@@ -1,4 +1,4 @@
-# A compressed beamforming framework for ultrafastultrasound imaging
+# A compressed beamforming framework for ultrafast ultrasound imaging
 [Ecole Polytechnique Fédérale de Lausanne (EPFL)]: http://www.epfl.ch/
 [Signal Processing Laboratory (LTS5)]: http://lts5www.epfl.ch
 [CREATIS]:https://www.creatis.insa-lyon.fr/site7/fr
